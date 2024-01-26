@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Image Uploader</h1>
+<h1 align="center">CatWiki</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://image-uploader-master.netlify.app/">
+    <a href="https://catwiki.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -16,7 +16,7 @@
       Solution
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/challenges/O2iGT9yBd6xZBrOcVirx">
+    <a href="https://legacy.devchallenges.io/challenges/f4NJ53rcfgrP6sBMD2jt">
       Challenge
     </a>
   </h3>
@@ -37,10 +37,9 @@
 
 ## Overview
 
-![screenshot](https://raw.githubusercontent.com/anon-kae/image-uploader-master/develop/assets/images/demo.png)
+![](https://raw.githubusercontent.com/anon-kae/image-uploader-master/develop/assets/ScreenRecording.gif)
 
-- This project can be seen at https://image-uploader-master.netlify.app. It uses heroku for the backend host
-- This was a relatively simple project. it was fun to get more aquainted with Node.js with express
+- This project can be seen at https://cat-wiki-master.netlify.app. It uses API of https://thecatapi.com
 
 ### Built With
 
@@ -63,7 +62,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/anon-kae/image-uploader-master
+$ git clone https://github.com/anon-kae/cat-wiki-master
 
 # Install dependencies
 $ yarn install
@@ -71,14 +70,6 @@ $ yarn install
 # Run the app
 $ yarn dev
 ```
-
-## Acknowledgements
-
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For example -->
-
-- [Node.js](https://nodejs.org/)
-- [Express](https://expressjs.com/)
-- [Multer](https://www.npmjs.com/package/multer)
 
 ## Contact
 
