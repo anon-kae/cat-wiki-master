@@ -37,7 +37,7 @@
 
 ## Overview
 
-![Alt Text](https://raw.githubusercontent.com/anon-kae/image-uploader-master/develop/assets/ScreenRecording.gif)
+![](https://raw.githubusercontent.com/anon-kae/cat-wiki-master/master/assets/ScreenRecording.gif)
 
 - This project can be seen at https://cat-wiki-master.netlify.app. It uses API of https://thecatapi.com
 
