@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://catwiki.netlify.app/">
+    <a href="https://cat-wiki-master.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://devchallenges.io/solutions/78CENg7Ag8Xhb2Zn5osF">
+    <a href="https://legacy.devchallenges.io/solutions/Nb1VrbpR3XgjYzsnDq6J">
       Solution
     </a>
     <span> | </span>
@@ -31,7 +31,6 @@
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
 
 <!-- OVERVIEW -->
 
